@@ -6,7 +6,7 @@ are responsible for managing employees and granting permissions, and all users h
 ability to change their account password. All user data is stored in an Oracle database, 
 ensuring system security and reliability
 
-##Technologies
+## Technologies
 - Java 19
 - Ojdbc8
 - SQL
@@ -15,7 +15,7 @@ ensuring system security and reliability
 - Random
 - Stream
 
-##Features
+## Features
 - User login
 - Add account
 - Delete account
@@ -23,5 +23,5 @@ ensuring system security and reliability
 - Bank operation
 - Validator data
 
-##Project status
+## Project status
 The project is constantly developed by new known technologies
